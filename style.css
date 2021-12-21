@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&family=Ubuntu:wght@300&display=swap');
+body
+{
+    background-image: url("/clear-skies.jpg");
+    background-repeat: no-repeat;
+    font-family: 'Ubuntu', sans-serif;
+}
+#input
+{
+    width:400px;
+    margin:auto;
+
+}
+#type1
+{
+    margin-top: 10rem;
+}
+input[type="text"]
+{
+    padding:1rem;
+    border: 1px solid black;
+    border-radius: 0.3rem;
+}
+#btn-click
+{
+padding:0.5rem;
+color: black;
+background-color: white;
+margin-left: 2rem;
+
+border-radius: 0.5rem;
+}
+#btn-click:hover
+{
+    margin-left: 2rem;
+padding:0.5rem;
+color: white;
+background-color: black;
+}
+#Container
+{
+    width:400px;
+    margin:auto;
+    
+}
